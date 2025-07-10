@@ -3,8 +3,9 @@
 Welcome to my GitHub Profile!
 I'm a passionate learner currently focusing on developing my skills in Excel, Power Query, SQL, Power BI, and Tableau.
 
-### 📁Here are some quick links to my recent projects:
+ 🎯 Currently focused on creating real-world projects that showcase my ability to clean, analyze, and visualize data.
 
+### 📁📁 Featured Projects
 1. working [me](https://www.facebook.com/thowbh89)
 <!--**Thuwaybah99/Thuwaybah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
