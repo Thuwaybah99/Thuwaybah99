@@ -5,7 +5,7 @@ I'm a passionate learner currently focusing on developing my skills in Excel, Po
 
  🎯 Currently focused on creating real-world projects that showcase my ability to clean, analyze, and visualize data.
 
-### 📁📁 Featured Projects
+### 📁 Featured Projects
 1. working [me](https://www.facebook.com/thowbh89)
 <!--**Thuwaybah99/Thuwaybah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
