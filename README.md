@@ -1,12 +1,32 @@
-## 👋Hi there I'm Thuwaybah
+# 👋 Hi, I'm a Data Analyst focused on Supply Chain Analytics
 
-Welcome to my GitHub Profile!
-I'm a passionate learner currently focusing on developing my skills in Excel, Power Query, SQL, Power BI, and Tableau.
+I’m a data analyst with a strong interest in supply chain analytics and operational performance. I work at the intersection of data, business context, and communication — transforming raw data into structured insights that support smarter decision-making.
 
- 🎯 Currently focused on creating real-world projects that showcase my ability to clean, analyze, and visualize data.
+### 🔎 What I Work On
 
-### 📁 Featured Projects
-1. working [me](https://www.facebook.com/thowbh89)
+Cleaning and transforming data using SQL and Excel
+Exploring patterns and trends in operational datasets
+Building dashboards and visualizations in Tableau
+Tracking KPIs across inventory, demand planning, promotions, and store performance
+Analyzing how lead times, stock levels, pricing, and promotions impact revenue and efficiency
+
+### 🧠 Analytical Approach
+
+I focus on:
+Data modeling and structured relationships
+Performance measurement and KPI design
+Promotion and sales impact analysis
+Inventory and operational efficiency evaluation
+
+With a background that values clarity and expression, I emphasize storytelling with data — presenting insights in a way that is precise, structured, and accessible to both technical and non-technical audiences.
+
+### 🚀 Currently Developing
+
+Advanced data modeling
+Business analytics strategy
+Scalable dashboard design
+Deeper SQL and analytical optimization techniques
+I’m driven by curiosity, consistency, and the goal of producing analytical work that creates measurable business value.
 <!--**Thuwaybah99/Thuwaybah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
