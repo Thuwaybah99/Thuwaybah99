@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thuwaybah a Data Analyst focused on Business Analytics
 
-I’m a data analyst with a strong interest in supply chain analytics and operational performance. I work at the intersection of data, business context, and communication — transforming raw data into structured insights that support smarter decision-making.
+I’m a data analyst with a strong interest in business analytics and operational performance. I work at the intersection of data, business context, and communication — transforming raw data into structured insights that support smarter decision-making.
 
 ### 🔎 What I Work On
 
