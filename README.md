@@ -1,42 +1,22 @@
-# 👋 Hi, I'm Thuwaybah a Data Analyst focused on Business Analytics
+# Hi, I'm Thuwaybah 👋
+### Data Analyst | Business Analytics | Aspiring Data Scientist
 
-I’m a data analyst with a strong interest in business analytics and operational performance. I work at the intersection of data, business context, and communication — transforming raw data into structured insights that support smarter decision-making.
+I'm a data analyst with a background in **Electronic Engineering**, passionate about turning complex datasets into meaningful insights and data-driven solutions.
 
-### 🔎 What I Work On
+My work combines **data preparation, statistical analysis, business intelligence, and visualization**, with a growing focus on **machine learning, predictive modeling, and advanced analytics**.
 
-Cleaning and transforming data using SQL and Excel
-Exploring patterns and trends in operational datasets
-Building dashboards and visualizations in Tableau
-Tracking KPIs across inventory, demand planning, promotions, and store performance
-Analyzing how lead times, stock levels, pricing, and promotions impact revenue and efficiency
+### 🔍 What I Do
+- **Data Analysis:** Clean, transform, and explore datasets using SQL, Python, and Excel.
+- **Business Intelligence:** Develop interactive Tableau dashboards to monitor KPIs, uncover trends, and support decision-making.
+- **Applied Analytics:** Analyze customer behavior, transaction patterns, operational performance, and business outcomes.
+- **Research:** Contributed to two IEEE publications exploring AI-based detection systems and multi-sensor technologies.
 
-### 🧠 Analytical Approach
+### 🛠️ Technical Skills
+**Languages:** Python, SQL, R  
+**Analytics & BI:** Tableau, Power BI, Excel, Power Query  
+**Core Skills:** Data Cleaning, Data Modeling, Statistical Analysis, KPI Development, Data Visualization
 
-I focus on:
-Data modeling and structured relationships
-Performance measurement and KPI design
-Promotion and sales impact analysis
-Inventory and operational efficiency evaluation
+### 🚀 Current Focus
+Expanding my expertise in **Machine Learning, Predictive Analytics, and Data Science**, with an interest in developing intelligent models that forecast trends, identify behavioral patterns, and solve real-world problems.
 
-With a background that values clarity and expression, I emphasize storytelling with data — presenting insights in a way that is precise, structured, and accessible to both technical and non-technical audiences.
-
-### 🚀 Currently Developing
-
-Advanced data modeling
-Business analytics strategy
-Scalable dashboard design
-Deeper SQL and analytical optimization techniques
-I’m driven by curiosity, consistency, and the goal of producing analytical work that creates measurable business value.
-<!--**Thuwaybah99/Thuwaybah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Driven by curiosity, research, and the belief that meaningful analytics should lead to measurable impact.*
